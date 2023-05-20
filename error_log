@@ -1,0 +1,40 @@
+[04-May-2023 14:47:47 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 58
+[04-May-2023 15:18:33 UTC] PHP Fatal error:  Uncaught Error: Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 49
+[04-May-2023 15:18:39 UTC] PHP Fatal error:  Uncaught Error: Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 49
+[04-May-2023 15:19:55 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 58
+[04-May-2023 15:20:43 UTC] PHP Warning:  Use of undefined constant tls - assumed 'tls' (this will throw an Error in a future version of PHP) in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 58
+[04-May-2023 16:18:04 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:18:04 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:18:04 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:39:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:39:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:39:22 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:42:28 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:42:28 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:42:28 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 11
+[04-May-2023 16:49:58 UTC] PHP Warning:  base64_encode() expects parameter 1 to be string, object given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 3428
+[04-May-2023 17:47:57 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'TLS' in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 58
+[04-May-2023 17:52:17 UTC] PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1882
+[04-May-2023 17:55:04 UTC] PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1882
+[04-May-2023 17:55:40 UTC] PHP Notice:  Undefined index: name in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 15
+[04-May-2023 17:55:40 UTC] PHP Notice:  Undefined index: course in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 16
+[04-May-2023 17:55:40 UTC] PHP Notice:  Undefined index: email in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php on line 17
+[04-May-2023 17:55:40 UTC] PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1882
+[04-May-2023 17:55:50 UTC] PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1882
+[04-May-2023 17:59:27 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1867
+[04-May-2023 17:59:27 UTC] PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1882
+[04-May-2023 17:59:27 UTC] PHP Warning:  strpos() expects parameter 1 to be string, object given in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 1884
+[04-May-2023 17:59:27 UTC] PHP Fatal error:  Uncaught Error: Object of class TCPDF could not be converted to string in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php:3217
+Stack trace:
+#0 /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/generate_certificate.php(74): PHPMailer\PHPMailer\PHPMailer->addAttachment(Object(TCPDF), 'My uploaded fil...')
+#1 {main}
+  thrown in /home/lphyk04sep28/public_html/poi.itr.works/email/pdfmail/PHPMailer/PHPMailer.php on line 3217
